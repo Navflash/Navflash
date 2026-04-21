@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Navneet Sagar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning App Development
+- 👀 I’m into AI Development and Machine Learning
 - Mail - nvnt2017@gmail.com
 
 <!---
