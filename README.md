@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:nvnt2017@gmail.com">nvnt2017@gmail.com</a> ·
-  <a href="https://linkedin.com/in/navneet-sagar">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/navneet-sagar29/">LinkedIn</a> ·
   Hyderabad, India
 </p>
 
